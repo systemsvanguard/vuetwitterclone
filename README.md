@@ -13,8 +13,9 @@ Live **Site Demo** ~ [Vue.js 3 Twitter Clone](http://financialreact.ryanhunter.c
 - ensure your have Node & NPM pre-installed. Run commands 'node --version && npm -v'.
 - npm install.  (This ensures all dependencies are installed).
 - npm run serve
-- Runs on port 3003 via .env variable --> http://localhost:3003/ 
+- Runs on port 8080 via .env variable --> http://localhost:8080/ 
 - Please rename '.env4Display' to '.env'.
+- The .env port is set to 3000.
 - Change the web port as needed.
 - To build files and minify for Production deploy, run command, "npm run build" 
 
@@ -26,7 +27,7 @@ Live **Site Demo** ~ [Vue.js 3 Twitter Clone](http://financialreact.ryanhunter.c
 - Bulma CSS framework 
 - FontAwesome 5 icons
 - Google Fonts
-- Filler text from https://pirateipsum.me 
+- Filler text from http://officeipsum.com/ 
 
 
 ## License
